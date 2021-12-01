@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/hex/CitiEbcdicOnlEncoderTest.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/log/remove/LogFlag.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/log/remove/LogRemoveMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/log/remove/LogRemoveSample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/CreateUuid.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/Date.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/TB_V4_FEP_TRN_MST.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/createFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/createFile4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/tuning/util/dummy/main.java" charset="UTF-8" />
+  </component>
+</project>
